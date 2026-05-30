@@ -117,7 +117,7 @@ All figures are saved to `figures/`. Model checkpoints are saved to `models/` (g
 
 Covers the full methodology, experiment design, sensitivity analyses, VAE vs. autoencoder comparison, and discussion of reconstruction-based anomaly detection behavior on Fashion-MNIST.
 
-[`Project Paper`](docs/vae_anomaly_detection_paper.pdf)
+[`Final Project VAE Anomaly Detection Paper`](docs/vae_anomaly_detection_paper.pdf)
 
 ## Note on AI Assistance
 
